@@ -30,7 +30,7 @@ public class Board extends JPanel implements MouseListener{
       @Override
       public void paintComponent(Graphics g) {
         super.paintComponent(g);
-        
+       
         //dibujarPiano(g);
     }
     

@@ -16,7 +16,7 @@ public class Melodia {
     private ArrayList<Nota> Partitura;
     
     public Melodia(){
-    this.Partitura = new ArrayList<>();
+        this.Partitura = new ArrayList<>();
     }
     
 }
